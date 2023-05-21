@@ -4,7 +4,7 @@
 
 ### Required software
 ```bash
-apt install pip pipenv
+apt install python3 pip pipenv
 ```
 
 ### Install dependencies
