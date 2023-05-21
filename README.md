@@ -18,11 +18,11 @@ pip install .
 
 ### Execution (direct)
 ```bash
-pipenv run python marketml/Regressor/Regressor_fun.py 
+pipenv run python3 scripts/main.py 
 ```
 
 ### Execution
 ```bash
 pipenv shell
-python3 marketml/Regressor/Regressor_fun.py 
+python3 python3 scripts/main.py 
 ```
