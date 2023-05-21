@@ -11,6 +11,7 @@ scipy = "*"
 setuptools = "*"
 datetime = "*"
 python-binance = "*"
+marketml = {editable = true, path = "."}
 
 [dev-packages]
 

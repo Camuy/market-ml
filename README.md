@@ -9,11 +9,8 @@ apt install python3 pip pipenv
 
 ### Install dependencies
 ```bash
+pipenv install -e .
 pip install -e .
-```
-OR
-```bash
-pip install .
 ```
 
 ### Execution (direct)
@@ -26,3 +23,7 @@ pipenv run python3 scripts/main.py
 pipenv shell
 python3 python3 scripts/main.py 
 ```
+
+## USEFUL LINKS
+* https://medium.com/mlearning-ai/a-practical-guide-to-python-project-structure-and-packaging-90c7f7a04f95
+* https://packaging.python.org/en/latest/tutorials/managing-dependencies/#other-tools-for-application-dependency-management

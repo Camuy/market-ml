@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c9c98b332391175959345e329c90d736b8d39a3c8e46a5a62fef188b3df6d14b"
+            "sha256": "01263c0519607bc7d56a4ffa5094575d2a065d6f74e8ff615e974978dd998a00"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -476,6 +476,10 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==1.4.4"
+        },
+        "marketml": {
+            "editable": true,
+            "path": "."
         },
         "matplotlib": {
             "hashes": [
