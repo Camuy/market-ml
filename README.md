@@ -21,7 +21,7 @@ pipenv run python3 scripts/main.py
 ### Execution
 ```bash
 pipenv shell
-python3 python3 scripts/main.py 
+python3 scripts/main.py 
 ```
 
 ## USEFUL LINKS
